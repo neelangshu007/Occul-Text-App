@@ -41,3 +41,16 @@ Remember to use your own Firebase Project for integration befor running the app 
 3. Commit your changes (git commit -m 'Add some feature')
 4. Push your branch (git push origin my-new-feature)
 5. Create a new Pull Request
+
+
+# Contributors:
+
+<table>
+	<tr>
+		<td>
+  <a href="https://github.com/DhairyaBahl/React-Messenger-App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DhairyaBahl/React-Messenger-App" />
+</a>
+		</td>
+	</tr>
+</table>
