@@ -11,7 +11,7 @@ others
 [Presentation Link](https://docs.google.com/presentation/d/1xwSDZaT2n_FmZcwgnsGUAo70UznERKaN/edit?usp=sharing&ouid=103400509562157514166&rtpof=true&sd=true)
 
 # Demo Video
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Ffree%2Fvideo-play-button-transparent.html&psig=AOvVaw1bePpLd7n-lRtzf_328LC0&ust=1629108278633000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLj95rPjsvICFQAAAAAdAAAAABAD)](https://drive.google.com/file/d/1-NaICd0e-iLEV6zcYp98ysbunrR0uZ7Y/view?usp=sharing)
 
 ## Pre-requisites
 - Android SDK v23
