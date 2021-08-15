@@ -7,13 +7,13 @@ messaging functionalities without any contingencies.
 * Story mode allows users to upload images onto their status/story which can be seen by
 others
 
-# Presentation About Occul Text App
+## Presentation About Occul Text App
 [Presentation Link](https://docs.google.com/presentation/d/1xwSDZaT2n_FmZcwgnsGUAo70UznERKaN/edit?usp=sharing&ouid=103400509562157514166&rtpof=true&sd=true)
 
-# Demo Video
-*[Watch Demo video 1](https://drive.google.com/file/d/1-NaICd0e-iLEV6zcYp98ysbunrR0uZ7Y/view?usp=sharing)
-*[Watch Demo video 2](https://drive.google.com/file/d/1xqMyFx0g2hlYhXS1HLpLoksQ4t4-HKOn/view?usp=sharing)
-*[Watch Demo video 3](https://drive.google.com/file/d/1J8UJvQLdQBQOVXfDmIiHnLVYURX53C3c/view?usp=sharing)
+## Demo Video
+* [Watch Demo video 1](https://drive.google.com/file/d/1-NaICd0e-iLEV6zcYp98ysbunrR0uZ7Y/view?usp=sharing)
+* [Watch Demo video 2](https://drive.google.com/file/d/1xqMyFx0g2hlYhXS1HLpLoksQ4t4-HKOn/view?usp=sharing)
+* [Watch Demo video 3](https://drive.google.com/file/d/1J8UJvQLdQBQOVXfDmIiHnLVYURX53C3c/view?usp=sharing)
 
 ## Pre-requisites
 - Android SDK v23
@@ -33,7 +33,7 @@ This sample uses the Gradle build system. To build this project, use the
 ## Note:
 Remember to use your own Firebase Project for integration befor running the app or all the data will get stored in my Firsebase Project.
 
-![Firebase Docs](https://firebase.google.com/docs?authuser=0)
+[Firebase Docs](https://firebase.google.com/docs?authuser=0)
 
 ## Contributing
 1. Fork it
