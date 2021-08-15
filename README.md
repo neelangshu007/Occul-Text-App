@@ -1,10 +1,10 @@
 # Occul-Text-App
-● OcculText is an android messenger application which seeks to provide all the modern
+* OcculText is an android messenger application which seeks to provide all the modern
 messaging functionalities without any contingencies.
-● It provides a free and fun-to-use messaging UI to its users.
-● It provides image sharing service.
-● Users can use a common chat room feature to chat with users in the database.
-● Story mode allows users to upload images onto their status/story which can be seen by
+* It provides a free and fun-to-use messaging UI to its users.
+* It provides image sharing service.
+* Users can use a common chat room feature to chat with users in the database.
+* Story mode allows users to upload images onto their status/story which can be seen by
 others
 
 ## Pre-requisites
