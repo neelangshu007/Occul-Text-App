@@ -11,7 +11,7 @@ others
 [Presentation Link](https://docs.google.com/presentation/d/1xwSDZaT2n_FmZcwgnsGUAo70UznERKaN/edit?usp=sharing&ouid=103400509562157514166&rtpof=true&sd=true)
 
 # Demo Video
-[![Watch the video](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffacebook-play-button-png-clip-art-white-video-play-butto-PNG-free-PNG-Images_162527&psig=AOvVaw1bePpLd7n-lRtzf_328LC0&ust=1629108278633000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLj95rPjsvICFQAAAAAdAAAAABAI)](https://drive.google.com/file/d/1-NaICd0e-iLEV6zcYp98ysbunrR0uZ7Y/view?usp=sharing)
+[![Watch the video](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fvideo-play-icon&psig=AOvVaw0ponoZv2cuDEJ_AjdB0s3S&ust=1629108387064000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDv8unjsvICFQAAAAAdAAAAABAD)](https://drive.google.com/file/d/1-NaICd0e-iLEV6zcYp98ysbunrR0uZ7Y/view?usp=sharing)
 
 ## Pre-requisites
 - Android SDK v23
