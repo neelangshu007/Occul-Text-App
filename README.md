@@ -49,7 +49,7 @@ Remember to use your own Firebase Project for integration befor running the app 
 	<tr>
 		<td>
   <a href="https://github.com/neelangshu007/Occul-Text-App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DhairyaBahl/React-Messenger-App" />
+  <img src="https://contrib.rocks/image?repo=neelangshu007/Occul-Text-App" />
 </a>
 		</td>
 	</tr>
