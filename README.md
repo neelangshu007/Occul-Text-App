@@ -8,7 +8,7 @@ messaging functionalities without any contingencies.
 others
 
 ## Presentation About Occul Text App
-[Presentation Link](https://docs.google.com/presentation/d/1xwSDZaT2n_FmZcwgnsGUAo70UznERKaN/edit?usp=sharing&ouid=103400509562157514166&rtpof=true&sd=true)
+* [Presentation Link](https://docs.google.com/presentation/d/1xwSDZaT2n_FmZcwgnsGUAo70UznERKaN/edit?usp=sharing&ouid=103400509562157514166&rtpof=true&sd=true)
 
 ## Demo Video
 * [Watch Demo video 1](https://drive.google.com/file/d/1-NaICd0e-iLEV6zcYp98ysbunrR0uZ7Y/view?usp=sharing)
