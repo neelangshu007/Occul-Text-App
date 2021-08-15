@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OcculText</string>
+    <string name="caution_text">You must be at least <font color="#FF0101">16 years old </font>to register.</string>
+</resources>
