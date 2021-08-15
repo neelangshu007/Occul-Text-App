@@ -7,6 +7,9 @@ messaging functionalities without any contingencies.
 * Story mode allows users to upload images onto their status/story which can be seen by
 others
 
+# Presentation About Occul Text App
+![] https://docs.google.com/presentation/d/1xwSDZaT2n_FmZcwgnsGUAo70UznERKaN/edit?usp=sharing&ouid=103400509562157514166&rtpof=true&sd=true
+
 ## Pre-requisites
 - Android SDK v23
 - Android Build Tools v23.0.2
@@ -22,9 +25,8 @@ git clone https://github.com/neelangshu007/Occul-Text-App.git
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-## NOTE:
+## Note:
 Remember to use your own Firebase Project for integration befor running the app or all the data will get stored in my Firsebase Project.
-
 
 ## Contributing
 1. Fork it
