@@ -8,7 +8,10 @@ messaging functionalities without any contingencies.
 others
 
 # Presentation About Occul Text App
-[Occul Text App](https://docs.google.com/presentation/d/1xwSDZaT2n_FmZcwgnsGUAo70UznERKaN/edit?usp=sharing&ouid=103400509562157514166&rtpof=true&sd=true)
+[Presentation Link](https://docs.google.com/presentation/d/1xwSDZaT2n_FmZcwgnsGUAo70UznERKaN/edit?usp=sharing&ouid=103400509562157514166&rtpof=true&sd=true)
+
+# Demo Video
+[![Watch the video](DemoVideo/Demo Video 1.mp4)
 
 ## Pre-requisites
 - Android SDK v23
