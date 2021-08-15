@@ -11,7 +11,7 @@ others
 [Presentation Link](https://docs.google.com/presentation/d/1xwSDZaT2n_FmZcwgnsGUAo70UznERKaN/edit?usp=sharing&ouid=103400509562157514166&rtpof=true&sd=true)
 
 # Demo Video
-[![Watch the video](DemoVideo/Demo Video 1.mp4)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 ## Pre-requisites
 - Android SDK v23
