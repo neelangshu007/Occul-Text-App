@@ -31,7 +31,7 @@ This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
 ## Note:
-Remember to use your own Firebase Project for integration befor running the app or all the data will get stored in my Firsebase Project.
+Remember to use your own Firebase Project for integration befor running the app otherwise all the data will get stored in out Firsebase Project.
 
 [Firebase Docs](https://firebase.google.com/docs?authuser=0)
 
